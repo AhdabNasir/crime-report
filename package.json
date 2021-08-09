@@ -1,0 +1,54 @@
+{
+  "name": "crime-reports-uk",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Ahdab Nasir"
+  },
+  "dependencies": {
+    "@testing-library/jest-dom": "5.11.9",
+    "@testing-library/react": "11.2.5",
+    "@testing-library/user-event": "12.7.2",
+    "@wojtekmaj/enzyme-adapter-react-17": "0.6.3",
+    "axios": "0.21.1",
+    "enzyme": "3.11.0",
+    "evergreen-ui": "5.1.2",
+    "govuk-frontend": "3.11.0",
+    "govuk-react-jsx": "5.0.0",
+    "moment": "2.29.1",
+    "node-sass": "5.0.0",
+    "prop-types": "15.7.2",
+    "react": "17.0.1",
+    "react-datepicker": "4.1.1",
+    "react-dom": "17.0.1",
+    "react-helmet": "6.1.0",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "4.0.3",
+    "react-test-renderer": "17.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "babel-eslint": "10.1.0",
+    "eslint-config-airbnb": "18.2.1",
+    "eslint-plugin-import": "2.23.4",
+    "eslint-plugin-react": "7.24.0"
+  }
+}

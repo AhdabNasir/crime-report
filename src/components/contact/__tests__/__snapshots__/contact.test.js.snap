@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Contact/> renders <Contact/> component 1`] = `
+<p
+  className="govuk-body"
+>
+  Please email
+   
+  <a
+    className="govuk-link"
+    href="mailto:test@email.com"
+  >
+    test@email.com
+  </a>
+  .
+</p>
+`;

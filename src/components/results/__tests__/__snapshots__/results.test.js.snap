@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Results/> renders <Results/> component 1`] = `
+<p
+  className="govuk-body"
+>
+  Showing
+   
+  10
+   
+  results
+</p>
+`;

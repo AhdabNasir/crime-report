@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Loader/> renders <Loader/> component 1`] = `
+<div
+  className="css-nil ub-dspl_flex ub-algn-itms_center ub-just-cnt_center ub-h_450px ub-box-szg_border-box"
+>
+  <div
+    className="ub-w_100px ub-h_100px ub-ln-ht_0 ub-box-szg_border-box"
+  >
+    <svg
+      className="css-11r1ktn ub-box-szg_border-box"
+      viewBox="0 0 150 150"
+      x="0px"
+      y="0px"
+    >
+      <circle
+        className="css-1ipoqbj ub-box-szg_border-box"
+        cx="75"
+        cy="75"
+        r="60"
+      />
+    </svg>
+  </div>
+</div>
+`;

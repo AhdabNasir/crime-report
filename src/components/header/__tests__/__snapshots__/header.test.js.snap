@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header/> renders <Header/> component 1`] = `
+<h1
+  className="govuk-heading-l"
+>
+  Page header
+</h1>
+`;

@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Email/> renders <Email/> component 1`] = `
+<a
+  className="govuk-link"
+  href="mailto:test@email.com"
+>
+  test@email.com
+</a>
+`;

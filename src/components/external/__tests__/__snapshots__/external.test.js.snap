@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<External/> renders <External/> component 1`] = `
+<a
+  className="govuk-link"
+  href="www.google.com"
+  rel="noopener noreferrer"
+  target="_blank"
+>
+  Google
+</a>
+`;
